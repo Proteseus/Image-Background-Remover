@@ -1,0 +1,15 @@
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground Remmover.csprojAssemblyReference.cache
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground Remmover.csproj.GenerateResource.cache
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground Remmover.csproj.CoreCompileInputs.cache
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground_Remover.ImageDropWindow.resources
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground_Remover.Properties.Resources.resources
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\bin\Debug\ImageBackground Remover.exe.config
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\bin\Debug\ImageBackground Remover.exe.manifest
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\bin\Debug\ImageBackground Remover.application
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\bin\Debug\ImageBackground Remover.exe
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\bin\Debug\ImageBackground Remover.pdb
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground Remover.TrustInfo.xml
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground Remover.exe.manifest
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground Remover.application
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground Remover.exe
+C:\Users\Debrye\source\repos\ImageBackground Remmover\ImageBackground Remmover\obj\Debug\ImageBackground Remover.pdb
