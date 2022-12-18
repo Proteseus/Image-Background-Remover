@@ -93,7 +93,8 @@ namespace ImageBackground_Remover
                 using (var client = new HttpClient())
                 using (var formData = new MultipartFormDataContent())
                 {
-                    formData.Headers.Add("X-Api-Key", "bc02770987d10442cdfdfde04c74d18022f68c99");
+                    //add in your api key to access service
+                    formData.Headers.Add("X-Api-Key", " ");
                     formData.Add(new ByteArrayContent(File.ReadAllBytes(FileAddress)), "image_file", FileAddress);
                     formData.Add(new StringContent("auto"), "size");
                     var response = client.PostAsync("https://sdk.photoroom.com/v1/segment", formData).Result;
